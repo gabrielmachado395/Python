@@ -1,2 +1,2 @@
 # Python
- Mais de 100 projetos feitos em Python
+ Local onde irei publicar os mais de 100 exercicios feitos em Python.
