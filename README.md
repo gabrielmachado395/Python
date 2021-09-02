@@ -1,2 +1,2 @@
 # Python
- Mais de 100 projetos feitos em Python
+ Aqui irei publicando os mais de 100 projetos feitos em Python.
