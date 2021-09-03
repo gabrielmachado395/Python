@@ -1,3 +1,6 @@
+#Um simlador de supermercado onde o programa irá cadastrar os produtos e no fim irá mostrar:
+#O total da compra, quantos produtos custam mais de R$1000 e o nome do produto mais barato.
+
 maior_mil = 0
 nome_barato = 'menor'
 total = 0

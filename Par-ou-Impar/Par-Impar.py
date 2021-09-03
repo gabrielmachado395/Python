@@ -1,3 +1,7 @@
+#Um jogo de Par ou Impar onde o computador irá escolher um número e você outro.
+#Então o computador irá mostrar quem ganhou.
+#Caso o usuário perca o computador irá encerrar o jogo e mostrar quantas vitórias o usuário teve.
+
 from random import randint
 contador = 0
 jogador = 0

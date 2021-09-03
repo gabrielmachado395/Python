@@ -1,3 +1,6 @@
+#Um jogo de advinhação onde o computador irá escolher um número de 1 à 10.
+#No fim será mostrado quantas tentativas foram necessárias até a resposta correta.
+
 from random import randint
 num_palpite = 1
 

@@ -1,3 +1,6 @@
+#Um simulador de caixa eletrônico onde o programa pergunta o valor que irá ser sacado.
+#No fim dirá quantas notas de 50, 20, 10, 1 serão necessárias.
+
 print('=-=' * 11)
 print('{:^30}'.format('Banco Mundial'))
 print('=-=' * 11)
