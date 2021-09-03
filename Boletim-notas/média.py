@@ -1,4 +1,4 @@
-#Um sistema que irá calcular a média de um aluno e no fim dirá se ele passou de ano ou não.
+#Um sistema que irá calcular a média de um aluno e no fim dirá se ele passou de ano, se ele ficou de recuperação ou se ele reprovou.
 
 n1 = float(input('Digite a primeira nota: '))
 n2 = float(input('Digite a segunda nota: '))
