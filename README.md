@@ -1,1 +1,1 @@
-Aqui onde colocarei meus mais de 100 projetos feitos em Python.
+Aqui onde colocarei meus projetos feitos em Python.
